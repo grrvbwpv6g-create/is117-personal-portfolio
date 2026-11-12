@@ -81,11 +81,23 @@ How do Forward Deployed Engineering and software implementation careers connect 
 
 **Interpretation:** The responsibilities connect to systems analysis and technology project management, although technical development is also required.
 
+
 ## Comparison and Career Direction
 
-Both positions combine technology with business problem-solving. Coinbase emphasizes internal applications and integrations, while Fast Enterprises focuses on implementing software for client organizations.
+Both internships combine technology with business problem-solving, but their responsibilities differ.
 
-My preferred career direction is Business Analysis and Project Management. I am interested in understanding business requirements, improving processes, coordinating projects, and communicating with stakeholders.
+**Stakeholder Communication and Requirements Gathering:** Coinbase involves working with internal HR stakeholders to define problems and understand business needs. Fast Enterprises involves communicating with clients, gathering requirements, and responding to changing project needs. Both responsibilities connect to business analysis.
+
+**Business Process Analysis:** Coinbase focuses on improving internal HR workflows through applications and automation. Fast Enterprises focuses on understanding client business processes and implementing software that supports those processes.
+
+**Software Development and Technical Implementation:** Coinbase emphasizes building internal applications, API integrations, and AI-powered workflows. Fast Enterprises involves software configuration, .NET development, SQL, and technical implementation. Both internships require software development skills beyond business analysis alone.
+
+**Project Delivery and Testing:** Coinbase includes end-to-end project ownership, testing, and production delivery. Fast Enterprises involves implementation, testing, deployment, and production support. These responsibilities connect to project coordination and quality assurance.
+
+**My Career Direction:** Fast Enterprises appears somewhat closer to my interests in Business Analysis and Project Management because of its client communication, requirements gathering, and implementation responsibilities. However, it still requires significant technical development skills. Coinbase also includes business-facing work, but its emphasis on building applications, API integrations, and AI-powered workflows makes it more engineering-focused.
+
+This is my interpretation of the employer descriptions, not a statement that either internship is a non-coding business analyst or project management position.
+
 
 ## Connections to My IS117 Coursework
 
@@ -93,13 +105,13 @@ My preferred career direction is Business Analysis and Project Management. I am 
 
 Repository: https://github.com/grrvbwpv6g-create/is117-brand-studio
 
-I researched clothing websites, compared target audiences, and selected a modernist design direction for my white T-shirt brand. This project demonstrates my practice with research, documentation, and design decisions.
+I researched clothing websites, including UNIQLO, Everlane, and COS, and compared their approaches to audience targeting and design. I documented my research in SPEC.md and selected a modernist design direction for THE EDIT, my white T-shirt brand. This is a specific example of using research to make and document a design decision. It connects to the requirements-gathering and decision-making responsibilities described in both internships.
 
 ### Node.js Web Server
 
 Repository: https://github.com/grrvbwpv6g-create/is117-web-server
 
-I created a basic Node.js web server with routes and practiced software testing using Jest. This project demonstrates introductory technical development and testing experience.
+I created a basic Node.js web server with routes for the homepage and /about page. I also used Jest to test the server's behavior. This is a specific example of introductory software development and testing. It connects to the technical implementation and verification responsibilities described in both internship postings, although those professional roles require more advanced skills.
 
 These are coursework projects, not professional implementation experience.
 
