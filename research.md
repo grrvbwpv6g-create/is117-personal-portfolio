@@ -13,18 +13,31 @@ How do Forward Deployed Engineering and software implementation careers connect 
 
 **Original Source:** https://www.coinbase.com/careers/positions/8175510?gh_jid=8175510
 
+
 **Research Date:** November 11, 2026
+
+**Source Rechecked:** November 11, 2026
 
 **Location:** New York City, Hybrid
 
-**Responsibilities identified for verification:**
-- Understanding stakeholder needs and business requirements
-- Developing internal applications and API integrations
-- Testing software and supporting project delivery
+**Program:** Summer 2027, 12 weeks
+
+**Public Eligibility:** Relevant technical degree or equivalent engineering experience, with demonstrated software development and AI-workflow experience.
+
+
+
+**Responsibilities:**
+- Understand stakeholder needs and business requirements.
+- Develop internal applications and API integrations.
+- Test software and support project delivery.
 
 **Application Deadline:** Not stated in the reviewed description.
 
-**Observation:** This role combines business problem-solving with software development.
+
+**Application Status:** An application link was displayed when reviewed. Successful submission has not been verified.
+
+**Evidence:** The employer describes stakeholder collaboration, application development, integrations, and delivery.
+
 
 **Interpretation:** The stakeholder communication and requirements-gathering responsibilities connect to business analysis. However, the role also requires substantial programming knowledge.
 
@@ -32,18 +45,32 @@ How do Forward Deployed Engineering and software implementation careers connect 
 
 **Original Source:** https://careers-fastenterprises.icims.com/jobs/1709/implementation-intern/job?in_iframe=1
 
+
 **Research Date:** November 11, 2026
 
-**Location:** Various project locations in the United States
+**Source Rechecked:** November 11, 2026
 
-**Responsibilities identified for verification:**
-- Understanding client requirements
-- Using SQL and relational databases
-- Supporting software implementation and testing
+**Location:** Various project locations in the United States, fully in-office.
+
+**Program:** Summer 2027
+
+**Public Eligibility:** Current undergraduate student, including Information Systems majors; minimum 3.0 GPA; development-environment experience, SQL exposure, and willingness to relocate.
+
+
+
+**Responsibilities:**
+- Understand client requirements and business processes.
+- Configure software using FAST tools and VB.NET or C#.
+- Write SQL queries and support software testing.
+
 
 **Application Deadline:** Not stated in the reviewed description.
 
-**Observation:** This role involves implementing software systems and supporting client needs.
+
+**Application Status:** An online application link was displayed when reviewed. Successful submission has not been verified.
+
+**Evidence:** The employer describes client-facing implementation, database work, software configuration, and testing.
+
 
 **Interpretation:** The responsibilities connect to systems analysis and technology project management, although technical development is also required.
 
@@ -74,6 +101,17 @@ These are coursework projects, not professional implementation experience.
 1. SQL and database querying
 2. API integrations and understanding communication between systems
 
+### Research Findings and Learning Decisions
+
+**Coinbase Finding:** The employer describes developing internal applications and connecting systems through APIs.
+
+**My Learning Decision:** I want to improve my understanding of API integrations because they help business systems communicate and exchange information.
+
+**Fast Enterprises Finding:** The employer describes using SQL queries and relational databases during implementation.
+
+**My Learning Decision:** I will practice SQL because database skills are useful for Information Systems, business analysis, and software implementation.
+
+
 ## Planned Next Step
 
 Within one week, I plan to complete a small SQL practice exercise using sample data.
@@ -93,5 +131,6 @@ A reviewer will be asked to open an original employer source and trace one requi
 - Verification and reviewer retry: Pending
 
 ## AI Assistance
+
 
 I used ChatGPT to help organize the research and compare the responsibilities of the two roles. Employer requirements need to be checked against the original job descriptions. My personal reflection and eligibility information will remain private in Canvas.
