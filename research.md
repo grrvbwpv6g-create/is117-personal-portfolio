@@ -141,13 +141,21 @@ Within one week, I plan to complete a small SQL practice exercise using sample d
 
 **Current Status:** Planned, not yet completed.
 
+
 ## Peer Review
 
-A reviewer will be asked to open an original employer source and trace one requirement to my portfolio evidence or planned learning step.
+I received peer feedback asking me to expand the internship descriptions, improve my career comparison, and provide specific evidence from my IS117 coursework.
 
-- GitHub feedback issues: Pending
-- Decisions and documentation changes: Pending
-- Verification and reviewer retry: Pending
+**Feedback:** Reviewers requested clearer employer responsibilities, a more detailed comparison, and specific project examples.
+
+**Decision and Changes:** I expanded the employer research, compared the two internships across four areas, and added specific examples from THE EDIT Brand Studio and my Node.js Web Server project.
+
+**Documentation Change:** [View updated research.html commit](https://github.com/grrvbwpv6g-create/is117-personal-portfolio/commit/8b838b5)
+
+**Verification:** I reviewed the updated documentation and committed the changes to GitHub.
+
+**Reviewer Retry:** Requested on GitHub Issue #3. Reviewer confirmation is still pending.
+
 
 ## AI Assistance
 
