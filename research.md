@@ -56,14 +56,19 @@ How do Forward Deployed Engineering and software implementation careers connect 
 
 **Program:** Summer 2027
 
-**Public Eligibility:** Current undergraduate student, including Information Systems majors; minimum 3.0 GPA; development-environment experience, SQL exposure, and willingness to relocate.
 
+**Public Eligibility:** Current undergraduate student, including Information Systems majors; minimum 3.0 GPA; experience with a .NET or similar software development environment; SQL exposure; and willingness to relocate to a U.S. project location.
 
+**Work Arrangement:** Fully in-office at an assigned U.S. project location. Relocation for the summer may be required, and the employer provides relocation assistance.
 
 **Responsibilities:**
-- Understand client requirements and business processes.
-- Configure software using FAST tools and VB.NET or C#.
-- Write SQL queries and support software testing.
+- Participate in the full software implementation lifecycle, from gathering client requirements through development, testing, deployment, and production support.
+- Communicate with clients to understand business processes, clarify needs, and respond to changing project requirements.
+- Configure and develop software using FAST tools and technologies such as VB.NET or C#.
+- Write SQL queries, work with data, and support software testing and troubleshooting.
+
+**Listed Hourly Pay:** $26 USD per hour.
+
 
 
 **Application Deadline:** Not stated in the reviewed description.
