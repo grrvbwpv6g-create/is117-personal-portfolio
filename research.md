@@ -22,14 +22,16 @@ How do Forward Deployed Engineering and software implementation careers connect 
 
 **Program:** Summer 2027, 12 weeks
 
-**Public Eligibility:** Relevant technical degree or equivalent engineering experience, with demonstrated software development and AI-workflow experience.
-
-
+**Public Eligibility:** Pursuing a degree in Computer Science, Software Engineering, or a related technical field, or equivalent hands-on engineering experience. The role calls for experience building, testing, debugging, and delivering software, including applications, API integrations, or automation tools, as well as experience with AI-powered workflows.
 
 **Responsibilities:**
-- Understand stakeholder needs and business requirements.
-- Develop internal applications and API integrations.
-- Test software and support project delivery.
+- Own a project from defining the problem with HR stakeholders through design, development, testing, and production delivery.
+- Build internal applications, API integrations, and AI-powered workflows with appropriate quality checks and human oversight.
+- Make technical decisions involving APIs, data modeling, application logic, security, and maintainability.
+- Work with HR stakeholders to understand business needs and prioritize improvements.
+- Measure results using user feedback, time saved, error reduction, and adoption rates.
+
+**Listed Hourly Pay:** $50 USD per hour.
 
 **Application Deadline:** Not stated in the reviewed description.
 
